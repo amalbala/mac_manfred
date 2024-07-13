@@ -867,6 +867,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
+        "name": "C++",
+        "type": "technology"
+      },
+      {
+        "name": "OpenCV",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "TensorFlow",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría trabajar en una empresa asentada, que tenga la mayoria de su personal en remoto 100% y que me plantee retos a dos niveles, en la gestión de equipos y en el campo del procesamiento de imágenes. Algo como Tech Lead me gusta, que tenga que investigar en nuevas tecnologías y transformarlas en producto, un traductor investigación -> mercado",
     "goodPractices": "SOLID, YAGNI, TDD, transparencia, empatía con el compañero, decisiones basadas en datos.",
     "projects": [
